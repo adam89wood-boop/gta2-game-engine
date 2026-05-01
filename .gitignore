@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Distribution folder
+/dist/
+
+# Build artifacts
+/build/
